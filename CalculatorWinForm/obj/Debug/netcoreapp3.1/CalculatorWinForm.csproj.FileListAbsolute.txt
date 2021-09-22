@@ -1,0 +1,15 @@
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\bin\Debug\netcoreapp3.1\CalculatorWinForm.exe
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\bin\Debug\netcoreapp3.1\CalculatorWinForm.deps.json
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\bin\Debug\netcoreapp3.1\CalculatorWinForm.runtimeconfig.json
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\bin\Debug\netcoreapp3.1\CalculatorWinForm.runtimeconfig.dev.json
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\bin\Debug\netcoreapp3.1\CalculatorWinForm.dll
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\bin\Debug\netcoreapp3.1\CalculatorWinForm.pdb
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\obj\Debug\netcoreapp3.1\CalculatorWinForm.csprojAssemblyReference.cache
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\obj\Debug\netcoreapp3.1\CalculatorWinForm.Calculator.resources
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\obj\Debug\netcoreapp3.1\CalculatorWinForm.csproj.GenerateResource.cache
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\obj\Debug\netcoreapp3.1\CalculatorWinForm.AssemblyInfoInputs.cache
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\obj\Debug\netcoreapp3.1\CalculatorWinForm.AssemblyInfo.cs
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\obj\Debug\netcoreapp3.1\CalculatorWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\obj\Debug\netcoreapp3.1\CalculatorWinForm.dll
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\obj\Debug\netcoreapp3.1\CalculatorWinForm.pdb
+C:\Users\Buzz\Desktop\C# Projects\CalculatorWinForm\CalculatorWinForm\obj\Debug\netcoreapp3.1\CalculatorWinForm.genruntimeconfig.cache
